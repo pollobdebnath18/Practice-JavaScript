@@ -22,7 +22,7 @@ for(let i=0;i<t.length;i++){
     if(ch ==='u') u++;
 }
 if(a>0 && e>0 && ii>0 && o>0 && u>0){
-    console.log(" Yes . All vowel is present in string t.");
+      console.log(" Yes . All vowel is present in string t.");
 }
 else{
     console.log("No. Missing vowel.");
